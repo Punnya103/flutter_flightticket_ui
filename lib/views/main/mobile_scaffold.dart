@@ -1,7 +1,7 @@
 import 'package:flight_booking/views/HomeScreen/Home_mob.dart';
-import 'package:flight_booking/views/profile_screen.dart';
-import 'package:flight_booking/views/ticket_screen.dart';
-import 'package:flight_booking/views/search_screen.dart';
+import 'package:flight_booking/views/ProfileScreen/profile_screen.dart';
+import 'package:flight_booking/views/Ticket/ticket_screen.dart';
+import 'package:flight_booking/views/SearchScreen/search_screen.dart';
 import 'package:fluentui_icons/fluentui_icons.dart';
 import 'package:flutter/material.dart';
 
